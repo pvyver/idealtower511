@@ -4,7 +4,14 @@ title : "Ideal Tower 5 11"
 subtitle: |
   A wonderful apartment in Blankenberge (Belgium) with a magnificent view over the beach and dunes.
 content : |
-  This is a <strong>Banner</strong> element, and it's generally used as an introduction or opening statement. You can customize its <span class="demo-controls">appearance with a number of modifiers</span>, as well as assign it an optional <code>onload</code> or <code>onscroll</code> transition modifier (<a href="#reference-banner">details</a>).
+  This unique apartment located on the 5th floor offers a beautiful panoramic view of the sea and dunes. </br>
+  The dining area can help you create a covered outdoor space. </br>
+  The apartment features a fully equipped kitchen. </br>
+  - 2 bedrooms with double bed </br>
+  - bathroom with bath/shower and toilet + shower room with sink </br>
+  - separate guest toilet in the hallway  </br>
+  Underground enclosed garage box level -1 </br>
+  Located between O'Neill Beachclub and Pier </br>
 button:
   label : "Get Started"
   link : "#first"
