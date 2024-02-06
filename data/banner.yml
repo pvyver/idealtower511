@@ -2,7 +2,7 @@
 style: "style1 orient-left content-align-left image-position-left fullscreen onload-image-fade-in onload-content-fade-right"
 title : "Ideal Tower 5 11"
 subtitle: |
-  A wonderful apartment in Blankenberge (Belgium) with a magnificent view over the beach and dunes.
+  A <strong>wonderful</strong> apartment in Blankenberge (Belgium) with a magnificent view over the beach and dunes.
 content : |
   This <strong>unique</strong> apartment located on the 5th floor offers a beautiful panoramic view of the sea and dunes. </br>
 button:
