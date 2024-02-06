@@ -1,7 +1,7 @@
 # Change to your website's URL (NO trailing slash)
 #For local dev, change to: http://localhost:1313
-baseURL = "https://name.gitlab.io/documentation/"
-#baseURL = "/"
+#baseURL = "https://name.gitlab.io/documentation/"
+baseURL = "/quickstart"
 #relativeURLs = true
 
 
