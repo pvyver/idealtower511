@@ -2,14 +2,7 @@ title: "Kitchen"
 id: "kitchen"
 style: "style2 medium lightbox onscroll-fade-in"
 content: |
-  Fully equipped kitchen:
-  <li>Dishwasher</li>
-  <li>Refrigerator</li>
-  <li>Coffee machine</li>
-  <li>Combi microwave oven</li>
-  <li>Induction cooking plate</li>
-  <li>Pans, pots</li>  
-  <li>Knives, forks, spoons, ...</li>
+  Fully equipped kitchen containing: Dishwasher, refrigerator, coffee machine, combi microwave oven, Induction cooking plate, pans, pots, knives, forks, spoons, ...
 pictures:
   - content: "A fully equipped kitchen."
     image: "images/kitchen/fulls/blankenberge-keuken.jpg"

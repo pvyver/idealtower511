@@ -3,13 +3,8 @@ id: "livingroom"
 style: "style2 medium lightbox onscroll-fade-in"
 content: |
   The living room has a <strong>stunning</strong> view over the beach and dunes of Blankenberge. </br>
-  The window can be opened in summertime to enjoy the weather while dining. 
-  </br> 
-  The living room contains:  
-  <li>A smart TV with several apps and a ChromeCast. </li>
-  <li>Radio (RF, DAB, Internet, Spotify, ...) </li>
-  <li>Triple sofa and arm chair. </li>
-  <li>Dinner table. </li>
+  The window can be opened in summertime to enjoy the weather while dining. </br> 
+  The living room contains: A smart TV with several apps and a ChromeCast, radio (RF, DAB, Internet, Spotify, ...), triple sofa and arm chair, dinner table. 
 pictures:
   - content: "A smart TV with several apps and a ChromeCast. Arm chair table."
     image: "images/living/fulls/blankenberge-living.jpg"
