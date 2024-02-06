@@ -7,15 +7,6 @@ content : |
   This <strong>unique</strong> apartment located on the 5th floor offers a beautiful panoramic view of the sea and dunes. </br>
   The <code>dining area</code> can help you create a covered outdoor space. </br>
   </br>
-  The apartment features:</br>
-  - <code>Living room</code> with dining area, sofa, arm chair, smart TV and digital radio</br>   
-  - <code>Fully equipped kitchen</code> </br>
-  - <code>1 bedrooms</code> with attached bathroom with bath/shower, sink and toilet</br>
-  - <code>1 bedrooms</code> with attached bathroom with shower and sink</br>
-  - <code>separate guest toilet</code> in the hallway </br>
-  </br>
-  <code>Underground enclosed garage</code> box level -1 </br>
-  Located between O'Neill Beachclub and Pier </br>
 button:
   label : "Get Started"
   link : "#livingroom"

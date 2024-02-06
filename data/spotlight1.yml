@@ -3,8 +3,16 @@ style: "style1 orient-right content-align-left image-position-center onscroll-im
 id: "first"
 title : "Spotlight"
 content: |
-  This is a <strong>Spotlight</strong> element, and it's generally used &ndash; as its name implies &ndash; to spotlight a particular feature, subject, or pretty much whatever. You can customize its <span class="demo-controls">appearance with a number of modifiers</span>, as well as assign it an optional <code>onload</code> or <code>onscroll</code> transition modifier (<a href="#reference-spotlight">details</a>).
+  The apartment features:</br>
+  - <code>Living room</code> with dining area, sofa, arm chair, smart TV and digital radio</br>   
+  - <code>Fully equipped kitchen</code> </br>
+  - <code>1 bedrooms</code> with attached bathroom with bath/shower, sink and toilet</br>
+  - <code>1 bedrooms</code> with attached bathroom with shower and sink</br>
+  - <code>separate guest toilet</code> in the hallway </br>
+  </br>
+  <code>Underground enclosed garage</code> box level -1 </br>
+  Located between O'Neill Beachclub and Pier </br>
 button: 
   label: "Learn More"
   link: "#"
-image: "images/spotlight01.jpg"
+image: "images/blankenberge-outside-sideview.jpg"
