@@ -1,8 +1,8 @@
 title : "Amenities"
-id: "amenities"
 content: |
   What this place offers.
 style: "style1 medium onscroll-fade-in"
+id: "amenities"
 items:
   # feature item loop
   - name : "Sea view"
