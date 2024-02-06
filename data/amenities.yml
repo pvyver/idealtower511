@@ -17,7 +17,12 @@ items:
     # feature item loop
   - name : "Smart TV"
     content : "LG Smart TV with cable TV, Chromecast and several apps"
-    style : "solid style2 major fa-tv"    
+    style : "solid style2 major fa-tv"  
+
+    # feature item loop
+  - name : "Fully equipped kitchen"
+    content : "Dishwasher, combi microwave, induction cooking plate, knives, pans, pots, knives, spoons, forks, ... "
+    style : "solid style2 major fa-kitchen-set"    
 
     # feature item loop
   - name : "Parking"
