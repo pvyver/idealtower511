@@ -17,5 +17,5 @@ content: |
   Located between O'Neill Beachclub and Pier, next to the dunes.</br>
 button:
   label: "Amenities"
-  link: "#second"
+  link: "#amenities"
 image: "images/blankenberge-outside-sideview.jpg"

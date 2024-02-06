@@ -6,10 +6,10 @@ content: |
   The window can be opened in summertime to enjoy the weather while dining. </br> 
 
   The living room contains: </br> 
-  - A smart TV with several apps and a ChromeCast. </br> 
-  - Radio (RF, DAB, Internet, Spotify, ...) </br> 
-  - Triple sofa and arm chair. </br> 
-  - Dinner table. </br> 
+  <li>A smart TV with several apps and a ChromeCast. </li>
+  <li>Radio (RF, DAB, Internet, Spotify, ...) </li>
+  <li>Triple sofa and arm chair. </li>
+  <li>Dinner table. </li>
 pictures:
   - content: "A smart TV with several apps and a ChromeCast. Arm chair table."
     image: "images/living/fulls/blankenberge-living.jpg"
