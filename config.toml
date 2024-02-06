@@ -34,4 +34,3 @@ disableKinds = ["taxonomy", "taxonomyTerm", "section"]
 [Params]
 
 [Params.social]
-Airbnb = "https://www.airbnb.be/rooms/1075860081051746224?adults=1&children=0&enable_m3_private_room=true&infants=0&pets=0&check_in=2024-02-17&check_out=2024-02-20&source_impression_id=p3_1707212817_alhkJItWZafmcW0s&previous_page_section_name=1000&federated_search_id=aebbe14a-6802-4c7b-a421-c67127c6921b&modal=PHOTO_TOUR_SCROLLABLE"
