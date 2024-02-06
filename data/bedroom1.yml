@@ -5,8 +5,7 @@ content: |
 pictures:
   - content: "Bedroom one, with all the comfort you need."
     image: "images/bedroom1/fulls/blankenberge-slaapkamer1-1.jpg"
-    thumb: "images/bedroom1/tumbs/blankenberge-slaapkamer1-1.jpg"
-            
+    thumb: "images/bedroom1/tumbs/blankenberge-slaapkamer1-1.jpg"   
     button: "View"
 
   - content: "Bedroom one, with all the comfort you need."

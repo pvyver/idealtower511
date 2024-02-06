@@ -1,0 +1,26 @@
+title: "Bedroom 2"
+style: "style2 medium lightbox onscroll-fade-in"
+content: |
+  The second bedroom has a bed, storage and a shower with sink. 
+pictures:
+  - content: "Bedroom two, with all the comfort you need."
+    image: "images/bedroom1/fulls/blankenberge-slaapkamer2-1.jpg"
+    thumb: "images/bedroom1/tumbs/blankenberge-slaapkamer2-1.jpg"
+    button: "View"
+
+  - content: "Bedroom two, with all the comfort you need."
+    image: "images/bedroom1/fulls/blankenberge-slaapkamer2-2.jpg"
+    thumb: "images/bedroom1/tumbs/blankenberge-slaapkamer2-2.jpg"
+    button: "View"
+
+  - content: "Bedroom two, with all the comfort you need."
+    image: "images/bedroom1/fulls/blankenberge-slaapkamer2-3.jpg"
+    thumb: "images/bedroom1/tumbs/blankenberge-slaapkamer2-3.jpg"
+    button: "View"
+
+  - content: "Bedroom two, with all the comfort you need."
+    image: "images/bedroom1/fulls/blankenberge-slaapkamer2-4.jpg"
+    thumb: "images/bedroom1/tumbs/blankenberge-slaapkamer2-4.jpg"
+    button: "View"
+
+
