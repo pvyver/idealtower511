@@ -13,6 +13,6 @@ content: |
   <code>Underground enclosed garage</code> box level -1 </br>
   Located between O'Neill Beachclub and Pier </br>
 button: 
-  label: "Learn More"
-  link: "#"
+  label: "Amenities"
+  link: "#amenities"
 image: "images/blankenberge-outside-sideview.jpg"
