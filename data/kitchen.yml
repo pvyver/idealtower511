@@ -3,7 +3,12 @@ style: "style2 medium lightbox onscroll-fade-in"
 content: |
   Fully equipped kitchen 
 pictures:
-  - content: "A smart TV with several apps and a ChromeCast. Arm chair table."
-    image: "images/living/fulls/blankenberge-living.jpg"
-    thumb: "images/living/tumbs/blankenberge-living.jpg"
+  - content: "A fully equipped kitchen."
+    image: "images/living/fulls/blankenberge-keuken.jpg"
+    thumb: "images/living/tumbs/blankenberge-keuken.jpg"
+    button: "View"
+
+  - content: "A fully equipped kitchen."
+    image: "images/living/fulls/blankenberge-keuken2.jpg"
+    thumb: "images/living/tumbs/blankenberge-keuken2.jpg"
     button: "View"
