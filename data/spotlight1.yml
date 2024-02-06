@@ -1,7 +1,7 @@
 ####################### Spotlight #########################
 style: "style1 orient-right content-align-left image-position-right onscroll-image-fade-in"
 id: "first"
-title : "Spotlight"
+title: "Spotlight"
 content: |
   The apartment features:</br>
   <ul>
@@ -16,7 +16,7 @@ content: |
   </br>
   <code>Underground enclosed garage</code> box level -1 </br>
   Located between O'Neill Beachclub and Pier </br>
-button: 
+button:
   label: "Amenities"
   link: "#amenities"
 image: "images/blankenberge-outside-sideview.jpg"
