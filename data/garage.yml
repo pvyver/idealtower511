@@ -1,0 +1,16 @@
+title: "Garage"
+style: "style2 medium lightbox onscroll-fade-in"
+content: |
+  Underground (closed) garage box at level -1.
+pictures:
+  - content: "Access on the side of the building"
+    image: "images/garage/fulls/blankenberge-garage-inkom.jpg"
+    thumb: "images/garage/tumbs/blankenberge-garage-inkom.jpg" 
+    button: "View"
+
+  - content: "Closed garage box"
+    image: "images/garage/fulls/blankenberge-garage-poort.jpg"
+    thumb: "images/garage/tumbs/blankenberge-garage-poort.jpg" 
+    button: "View"
+
+
