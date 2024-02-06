@@ -12,8 +12,3 @@ pictures:
     image: "images/kitchen/fulls/blankenberge-keuken2.jpg"
     thumb: "images/kitchen/tumbs/blankenberge-keuken2.jpg"
     button: "View"
-
-  - content: "A smart TV with several apps and a ChromeCast. Arm chair table."
-    image: "images/living/fulls/blankenberge-living.jpg"
-    thumb: "images/living/tumbs/blankenberge-living.jpg"
-    button: "View"
