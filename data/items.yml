@@ -4,7 +4,13 @@ content: |
 style: "style1 medium onscroll-fade-in"
 items:
   # feature item loop
+  - name : "Sea view"
+    content : "Awesome view at the sea, dunes an the port of Zeebrugge"
+    style : "solid style2 major fa-water"
+  
+  # feature item loop
   - name : "Wifi"
     content : "Superfast unlimited Internet."
     style : "solid style2 major fa-wifi"
     
+  
