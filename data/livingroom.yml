@@ -16,21 +16,18 @@ pictures:
     thumb: "images/living/tumbs/blankenberge-living.jpg"
     button: "View"
 
-  - title: "Living 2"
-    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+  - content: "Dining table and armchair."
     image: "images/living/fulls/blankenberge-living2.jpg"
     thumb: "images/living/tumbs/blankenberge-living2.jpg"
-    button: "Details"
+    button: "View"
 
-  - title: "Title"
-    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+  - content: "Dining table, armchair and sofa"
     image: "images/living/fulls/blankenberge-living3.jpg"
     thumb: "images/living/tumbs/blankenberge-living3.jpg"
-    button: "Details"
+    button: "View"
 
 
-  - title: "Title"
-    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+  - content: "Living room entrance"
     image: "images/living/fulls/blankenberge-living4.jpg"
     thumb: "images/living/tumbs/blankenberge-living4.jpg"
-    button: "Details"
+    button: "View"

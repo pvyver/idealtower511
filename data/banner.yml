@@ -7,6 +7,6 @@ content : |
   This <strong>unique</strong> apartment located on the 5th floor offers a beautiful panoramic view of the sea and dunes. </br>
 button:
   label : "Get Started"
-  link : "#first"
+  link : "#spotlight"
 image : "images/banner.png"
 

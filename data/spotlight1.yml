@@ -1,6 +1,6 @@
 ####################### Spotlight #########################
 style: "style1 orient-right content-align-left image-position-right onscroll-image-fade-in"
-id: "first"
+id: "spotlight"
 title: "Spotlight"
 content: |
   The apartment features:</br>
