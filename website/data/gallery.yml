@@ -1,0 +1,36 @@
+title: "Living Room"
+style: "style2 medium lightbox onscroll-fade-in"
+content: |
+  The living room has a <strong>stunning</strong> view over the beach and dunes of Blankenberge. </br>
+  The window can be opened in summertime to enjoy the weather while dining. </br> 
+
+  The living room contains: </br> 
+  - A smart TV with several apps and a chromecast. </br> 
+  - Radio (RF, DAB, Internet, Spotify, ...) </br> 
+  - Triple sofa and arm chair. </br> 
+  - Dinner table. </br> 
+pictures:
+  - title: "Title"
+    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+    image: "images/living/fulls/blankenberge-living.jpg"
+    thumb: "images/living/tumbs/blankenberge-living.jpg"
+    button: "Details"
+
+  - title: "Title"
+    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+    image: "images/living/fulls/blankenberge-living2.jpg"
+    thumb: "images/living/tumbs/blankenberge-living2.jpg"
+    button: "Details"
+
+  - title: "Title"
+    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+    image: "images/living/fulls/blankenberge-living3.jpg"
+    thumb: "images/living/tumbs/blankenberge-living3.jpg"
+    button: "Details"
+
+
+  - title: "Title"
+    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+    image: "images/living/fulls/blankenberge-living4.jpg"
+    thumb: "images/living/tumbs/blankenberge-living4.jpg"
+    button: "Details"
