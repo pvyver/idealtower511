@@ -15,6 +15,9 @@ content: |
   </ul>
   </br>
   Located between O'Neill Beachclub and Pier, next to the dunes.</br>
+
+  <a href="#amenities" class="button">Amenities</a></li>
+
 button:
   label: "Amenities"
   link: "#amenities"
