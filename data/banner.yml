@@ -14,6 +14,6 @@ content : |
   Located between O'Neill Beachclub and Pier </br>
 button:
   label : "Get Started"
-  link : "#first"
+  link : "#livingroom"
 image : "images/banner.png"
 
