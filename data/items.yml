@@ -13,4 +13,20 @@ items:
     content : "Superfast unlimited Internet."
     style : "solid style2 major fa-wifi"
     
+    # feature item loop
+  - name : "Smart TV"
+    content : "LG Smart TV with cable TV, Chromecast and several apps"
+    style : "solid style2 major fa-tv"    
+
+    # feature item loop
+  - name : "Parking"
+    content : "Underground parking (-1) box (closed) with almost direct access to the beach"
+    style : "solid style2 major fa-square-parking"
+
+    # feature item loop
+  - name : "Elevator"
+    content : "Elevator available"
+    style : "solid style2 major fa-elevator"
+
+
   
