@@ -16,7 +16,7 @@ relativeURLs = "true"
 publishDir = "public"
 
 # Remote
-baseURL = "https://pvyver.github.io/idealtower511/"
+baseURL = "https://pvyver.github.io/"
 #publishDir = "//centos/sites/hugodev/hugostory/"
 
 
