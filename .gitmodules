@@ -1,0 +1,3 @@
+[submodule "website/themes/hugo-theme-walden"]
+	path = website/themes/hugo-theme-walden
+	url = https://github.com/homecat805/hugo-theme-walden.git
