@@ -1,0 +1,26 @@
+title: "Bedroom 1"
+style: "style2 medium lightbox onscroll-fade-in"
+content: |
+  The first bedroom has a bed, storage and a bathroom with a toilet and a big bath to relax and enjoy your holidays. 
+pictures:
+  - content: "Bedroom one, with all the comfort you need."
+    image: "images/bedroom1/fulls/blankenberge-slaapkamer1-1.jpg"
+    thumb: "images/living/tumbs/blankenberge-slaapkamer1-1.jpg"
+    button: "View"
+
+  - content: "Bedroom one, with all the comfort you need."
+    image: "images/bedroom1/fulls/blankenberge-slaapkamer1-2.jpg"
+    thumb: "images/living/tumbs/blankenberge-slaapkamer1-2.jpg"
+    button: "View"
+
+  - content: "Bedroom one, with all the comfort you need."
+    image: "images/bedroom1/fulls/blankenberge-slaapkamer1-3.jpg"
+    thumb: "images/living/tumbs/blankenberge-slaapkamer1-3.jpg"
+    button: "View"
+
+  - content: "Bedroom one, with all the comfort you need."
+    image: "images/bedroom1/fulls/blankenberge-slaapkamer1-4.jpg"
+    thumb: "images/living/tumbs/blankenberge-slaapkamer1-4.jpg"
+    button: "View"
+
+

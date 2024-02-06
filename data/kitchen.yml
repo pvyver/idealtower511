@@ -4,11 +4,11 @@ content: |
   Fully equipped kitchen 
 pictures:
   - content: "A fully equipped kitchen."
-    image: "images/living/fulls/blankenberge-keuken.jpg"
-    thumb: "images/living/tumbs/blankenberge-keuken.jpg"
+    image: "images/kitchen/fulls/blankenberge-keuken.jpg"
+    thumb: "images/kitchen/tumbs/blankenberge-keuken.jpg"
     button: "View"
 
   - content: "A fully equipped kitchen."
-    image: "images/living/fulls/blankenberge-keuken2.jpg"
-    thumb: "images/living/tumbs/blankenberge-keuken2.jpg"
+    image: "images/kitchen/fulls/blankenberge-keuken2.jpg"
+    thumb: "images/kitchen/tumbs/blankenberge-keuken2.jpg"
     button: "View"
