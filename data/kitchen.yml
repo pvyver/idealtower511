@@ -2,7 +2,14 @@ title: "Kitchen"
 id: "kitchen"
 style: "style2 medium lightbox onscroll-fade-in"
 content: |
-  Fully equipped kitchen 
+  Fully equipped kitchen:
+  <li>Dishwasher</li>
+  <li>Refrigerator</li>
+  <li>Coffee machine</li>
+  <li>Combi microwave oven</li>
+  <li>Induction cooking plate</li>
+  <li>Pans, pots</li>  
+  <li>Knives, forks, spoons, ...</li>
 pictures:
   - content: "A fully equipped kitchen."
     image: "images/kitchen/fulls/blankenberge-keuken.jpg"
