@@ -11,12 +11,12 @@ content: |
     <li><code>Fully equipped kitchen</code></li>
     <li><code>1 bedrooms</code> with attached bathroom with bath/shower, sink and toilet</li>
     <li><code>1 bedrooms</code> with attached bathroom with shower and sink</li>
-    <li><code>separate guest toilet</code> in the hallway/li>
+    <li><code>Separate guest toilet</code> in the hallway/li>
+    <li><code>Underground garage box</code> at level -1 /li>
   </ul>
   </br>
-  <code>Underground enclosed garage</code> box level -1 </br>
-  Located between O'Neill Beachclub and Pier </br>
+  Located between O'Neill Beachclub and Pier, next to the dunes.</br>
 button:
   label: "Amenities"
-  link: "#amenities"
+  link: "#second"
 image: "images/blankenberge-outside-sideview.jpg"
