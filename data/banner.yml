@@ -9,6 +9,6 @@ content : |
   </br>
 button:
   label : "Get Started"
-  link : "#livingroom"
+  link : "#first"
 image : "images/banner.png"
 
