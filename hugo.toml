@@ -2,3 +2,5 @@ baseURL = 'https://www.idealtower511.be/'
 languageCode = 'en-us'
 title = 'Ideal Tower 5 11'
 theme = 'hugo-story'
+[params]
+    subtitle = '2 bedroom apartment to rent in Blankenberge. Direct beach access. Underground closed garage. Stunning views over the beach, sea and dunes..'

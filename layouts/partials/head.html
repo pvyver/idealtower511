@@ -2,8 +2,9 @@
 	<title>{{ .Site.Title }}</title>
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-	<meta name="description" content="">
-	<meta name="author" content="">
+	<meta name="description" content="{{ site.Params.description }}" />
+	<meta name="author" content="{{ site.Params.author }}" />
+
 	{{ if .Site.Params.favicon }}
 	{{ partial "favicon" }}
 	{{ end }}

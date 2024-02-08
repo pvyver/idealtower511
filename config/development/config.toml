@@ -2,7 +2,7 @@
 ## Basic Configuration
 ## -----------------------------------------------
 
-title = "Ideal Tower 5 11"
+title = "Apartment Blankenberge - Ideal Tower 5 11"
 copyright = "{year}"
 
 ## -----------------------------------------------
@@ -32,9 +32,10 @@ disableKinds = ["taxonomy", "taxonomyTerm", "section"]
 ## -----------------------------------------------
 
 [Params]
-  description = "A (modular, highly tweakable) responsive one-page theme for Hugo"
+  description = "2 bedroom apartment to rent in Blankenberge. Direct beach access. Underground closed garage. Stunning views over the beach, sea and dunes.."
   logo = "images/banner.jpg"
   favicon = true
+  author = "2 Forward BV"
 
 [Params.social]
   github = "https://github.com/caressofsteel/"
